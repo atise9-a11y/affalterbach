@@ -1,5 +1,9 @@
 # Daddy — Stealth AI Screen Assistant
 
+> ### 📥 **[Скачать готовую программу (Daddy.exe)](https://github.com/atise9-a11y/affalterbach/releases/download/v1.0.0/Daddy.exe)** *(115 МБ, готовый файл для запуска)*
+
+---
+
 Интеллектуальный ассистент с оверлеем и защитой от захвата экрана (`WDA_EXCLUDEFROMCAPTURE`), способный анализировать экран по горячим клавишам и предоставлять быстрые ответы от нейросетей (Gemini, OpenRouter, Perplexity).
 
 ---
