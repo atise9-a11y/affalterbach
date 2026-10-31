@@ -1,22 +1,4 @@
-# Environments & caches
-.venv/
-venv/
-__pycache__/
-*.py[cod]
-.vscode/
-
-# Configs with secret API keys
-config_ultra.json
-config.json
-*.env
-
-# Large binaries (GitHub rejects files > 100MB)
-*.exe
-*.dll
-*.iso
-*.bin
-build/
-dist/
-
-# Unrelated files
-week_6.py
+# Ignore everything except README.md and .gitignore
+*
+!README.md
+!.gitignore

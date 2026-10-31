@@ -1,7 +1,0 @@
-keyboard
-pyautogui
-pillow
-pystray
-requests
-pywin32
-pyinstaller

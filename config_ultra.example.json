@@ -1,8 +1,0 @@
-{
-    "gemini_key": "YOUR_GEMINI_API_KEY_HERE",
-    "openrouter_key": "YOUR_OPENROUTER_API_KEY_HERE",
-    "perplexity_key": "YOUR_PERPLEXITY_API_KEY_HERE",
-    "proxy": "",
-    "provider": "Gemini",
-    "font_size": 11
-}
